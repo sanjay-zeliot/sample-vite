@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 Test
 
-Testing Commit
+Testing UI Locally with the local backend
