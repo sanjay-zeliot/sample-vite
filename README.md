@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 Test
 
-Testing UI Locally with the local backend
+Testing UI from deployed with the deployed backend
